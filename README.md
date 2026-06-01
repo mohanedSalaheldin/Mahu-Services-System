@@ -72,17 +72,17 @@ Scaling up local storage to an embedded database schema (such as Hive or SQLite)
 
 ### UI Showcase
 
-<img width="1080" height="2400" alt="Screenshot_1759742421" src="https://github.com/user-attachments/assets/46c57545-5d06-43cf-9996-a4b5b640ebdb" />
-<img width="1080" height="2400" alt="Screenshot_1758876188" src="https://github.com/user-attachments/assets/b3bbb533-a528-4ca2-adbf-2132858092e3" />
-<img width="1080" height="2400" alt="Screenshot_1760706335" src="https://github.com/user-attachments/assets/d99945b6-3fe6-402d-ae91-2342fdd0591c" />
-<img width="1080" height="2400" alt="Screenshot_1760706271" src="https://github.com/user-attachments/assets/b95d65d1-7173-4523-9a86-ced0608a4192" />
-<img width="1080" height="2400" alt="Screenshot_1760706259" src="https://github.com/user-attachments/assets/b783ecaf-8e27-4689-a842-5563ffde9835" />
-<img width="1080" height="2400" alt="Screenshot_1760706252" src="https://github.com/user-attachments/assets/8b2292b8-a241-4d98-abbc-adb0bceba296" />
-<img width="1080" height="2400" alt="Screenshot_1760706145" src="https://github.com/user-attachments/assets/da84206d-d924-4509-a87c-8c806c9968e6" />
-<img width="1080" height="2400" alt="Screenshot_1760706121" src="https://github.com/user-attachments/assets/1f8ab05d-6538-4ab1-9339-1bf1cecc0655" />
-<img width="1080" height="2400" alt="Screenshot_1760706106" src="https://github.com/user-attachments/assets/f3d7891c-cd38-4e01-8e97-54c741fda931" />
-<img width="1080" height="2400" alt="Screenshot_1760706098" src="https://github.com/user-attachments/assets/1805f0c0-2a6c-4890-a1f2-1ceb75171968" />
-<img width="1080" height="2400" alt="Screenshot_1760706087" src="https://github.com/user-attachments/assets/c3cbf246-7c87-4a81-9ab7-07bb8b60f627" />
+<img width="250" height="2400" alt="Screenshot_1759742421" src="https://github.com/user-attachments/assets/46c57545-5d06-43cf-9996-a4b5b640ebdb" />
+<img width="250" height="2400" alt="Screenshot_1758876188" src="https://github.com/user-attachments/assets/b3bbb533-a528-4ca2-adbf-2132858092e3" />
+<img width="250" height="2400" alt="Screenshot_1760706335" src="https://github.com/user-attachments/assets/d99945b6-3fe6-402d-ae91-2342fdd0591c" />
+<img width="250" height="2400" alt="Screenshot_1760706271" src="https://github.com/user-attachments/assets/b95d65d1-7173-4523-9a86-ced0608a4192" />
+<img width="250" height="2400" alt="Screenshot_1760706259" src="https://github.com/user-attachments/assets/b783ecaf-8e27-4689-a842-5563ffde9835" />
+<img width="250" height="2400" alt="Screenshot_1760706252" src="https://github.com/user-attachments/assets/8b2292b8-a241-4d98-abbc-adb0bceba296" />
+<img width="250" height="2400" alt="Screenshot_1760706145" src="https://github.com/user-attachments/assets/da84206d-d924-4509-a87c-8c806c9968e6" />
+<img width="250" height="2400" alt="Screenshot_1760706121" src="https://github.com/user-attachments/assets/1f8ab05d-6538-4ab1-9339-1bf1cecc0655" />
+<img width="250" height="2400" alt="Screenshot_1760706106" src="https://github.com/user-attachments/assets/f3d7891c-cd38-4e01-8e97-54c741fda931" />
+<img width="250" height="2400" alt="Screenshot_1760706098" src="https://github.com/user-attachments/assets/1805f0c0-2a6c-4890-a1f2-1ceb75171968" />
+<img width="250" height="2400" alt="Screenshot_1760706087" src="https://github.com/user-attachments/assets/c3cbf246-7c87-4a81-9ab7-07bb8b60f627" />
 
 
 ### Functional Demos
