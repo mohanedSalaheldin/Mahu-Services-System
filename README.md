@@ -70,7 +70,7 @@ Scaling up local storage to an embedded database schema (such as Hive or SQLite)
 
 ## Media and Visual Verification
 
-### UI Showcase
+### UI Screens Showcase
 
 <img width="250"   alt="Screenshot_1759742421" src="https://github.com/user-attachments/assets/46c57545-5d06-43cf-9996-a4b5b640ebdb" />
 <img width="250"   alt="Screenshot_1758876188" src="https://github.com/user-attachments/assets/b3bbb533-a528-4ca2-adbf-2132858092e3" />
@@ -85,11 +85,14 @@ Scaling up local storage to an embedded database schema (such as Hive or SQLite)
 <img width="250"   alt="Screenshot_1760706087" src="https://github.com/user-attachments/assets/c3cbf246-7c87-4a81-9ab7-07bb8b60f627" />
 
 
-### Functional Demos
+## Media and Visual Verification
 
-* **Core System Workflow:** [Link to system recording or GIF]
-* **API & State Integration Demo:** [Link to dynamic interactions recording or GIF]
+### Development Sprint Log (Internal Team Update)
+The video below is an authentic recording originally shared with the development team during our internal status updates. It demonstrates the live application behavior at that stage, while tracking ongoing features and identifying system issues for resolution:
 
+*   **Internal Progress & Status Update Video:** [https://drive.google.com/file/d/1isZ13L0LymaG6e5-aI6u0g15_XtiyB5d/view?usp=drive_link]
+
+> 💡 **Video Context:** This recording covers the active feature demonstration, state manipulation via Cubit, and architectural walk-through showcasing where system issues were being resolved in real-time collaboration with the backend engineer.
 ---
 
 ## Developer
@@ -97,4 +100,4 @@ Scaling up local storage to an embedded database schema (such as Hive or SQLite)
 **Developed by Mohaned Salaheldin — Flutter Developer**
 
 ```
-```
+
