@@ -1,7 +1,7 @@
-````markdown
-# Cleaning Services Management System - Mobile Client
 
-This repository contains the mobile application frontend for the Cleaning Services Management System (CSMS). The project showcases a production-ready client architecture implemented using Flutter and Dart, emphasizing clean separation of concerns and cross-functional integration.
+#  Services Management System - Mobile Client
+
+This repository contains the mobile application frontend for the Services Management System (SMS). The project showcases a production-ready client architecture implemented using Flutter and Dart, emphasizing clean separation of concerns and cross-functional integration.
 
 ## Project Operational Status
 
